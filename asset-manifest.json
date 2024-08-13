@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/radiatorUniverse/static/css/main.21f92302.css",
+    "main.js": "/radiatorUniverse/static/js/main.395406d3.js",
+    "static/media/background.jpg": "/radiatorUniverse/static/media/background.2f405564d9b6e44ead0d.jpg",
+    "static/media/unLogo.jpg": "/radiatorUniverse/static/media/unLogo.500c3745c72aef1806b4.jpg",
+    "index.html": "/radiatorUniverse/index.html",
+    "main.21f92302.css.map": "/radiatorUniverse/static/css/main.21f92302.css.map",
+    "main.395406d3.js.map": "/radiatorUniverse/static/js/main.395406d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f92302.css",
+    "static/js/main.395406d3.js"
+  ]
+}
